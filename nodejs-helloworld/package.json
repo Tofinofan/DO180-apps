@@ -1,5 +1,6 @@
 {
   "name": "nodejs-helloworld",
+  "_this_is_my_comment_": "Creepy",
   "version": "1.0.0",
   "description": "Hello World!",
   "main": "app.js",
